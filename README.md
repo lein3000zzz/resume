@@ -99,6 +99,7 @@ ___
 	- Prometheus + Grafana
 	- ООП, функциональное программирование
 	- Понимание основ сетей
+	- Знаком с Hadoop, MapReduce, YARN
 	- Design patterns (Singleton, Factory, Observer и тд)
 	- Понимание принципов хорошего написания кода - SOLID, KISS, DRY, YAGNI
 	- Алгоритмы
