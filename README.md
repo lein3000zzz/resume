@@ -26,7 +26,7 @@ Backend-разработчик (Go)
 ### Опыт работы
 ___
 Январь 2024 - настоящее время. <br>
-6 месяцев
+8 месяцев
 
 #### Golang-разработчик (с опытом работы с Deno для вспомогательной логики)
 ##### **LimitFinder**
@@ -111,7 +111,7 @@ ___
 	- Риск-менеджмент
 	- Самостоятельность
 - Проекты:
-	- LimitFinderBot (deno) - nda
+	- LimitFinderBot (Go + deno) - nda
 	- [asperitas redditclone backend](https://github.com/lein3000zzz/asperitas-redditclone-backend-golang) (Golang)
 	- [3DViewer](https://github.com/lein3000zzz/3DViewer) (Java)
 	- [LimitFinder android app](https://github.com/lein3000zzz/FinderGemDealsDenoAndroidApp) (Kotlin)
