@@ -71,7 +71,7 @@ ___
 - Hard skills:
 	- Языки:
 		- Основные:
-			- Golang
+			- Golang (включая Gin, Echo)
 		- Имел опыт:
 			- Java / Kotlin
 			- python
@@ -85,6 +85,7 @@ ___
 	- REST API
 	- gRPC 
 	- Redis
+	- Memcached
 	- MongoDB 
 	- Firebase
 	- Firebase cloud messaging
@@ -99,7 +100,11 @@ ___
 	- Prometheus + Grafana
 	- ООП, функциональное программирование
 	- Понимание основ сетей
+	- Kafka
+	- RabbitMQ
 	- Знаком с Hadoop, MapReduce, YARN и принципами их работы
+	- Знаком со Spark, Cassandra, Apache Flink
+	- Знаком с Approximate алгоритмами для больших данных
 	- Design patterns (Singleton, Factory, Observer и тд)
 	- Понимание принципов хорошего написания кода - SOLID, KISS, DRY, YAGNI, RUG, SINE
 	- Алгоритмы
