@@ -98,6 +98,7 @@ ___
 	- NoSQL
 	- PostgreSQL 
 	- Prometheus + Grafana
+	- HashiCorp Vault, Consul
 	- ООП, функциональное программирование
 	- Понимание основ сетей
 	- Kafka
