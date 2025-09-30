@@ -113,6 +113,7 @@ ___
 - Проекты:
 	- LimitFinderBot (Go + deno) - nda
 	- [asperitas redditclone backend](https://github.com/lein3000zzz/asperitas-redditclone-backend-golang) (Golang)
+	- [HOA complaints service](https://github.com/lein3000zzz/HOA_complaints_service) (Golang + Gin)
 	- [3DViewer](https://github.com/lein3000zzz/3DViewer) (Java)
 	- [LimitFinder android app](https://github.com/lein3000zzz/FinderGemDealsDenoAndroidApp) (Kotlin)
 - Обо мне:
