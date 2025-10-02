@@ -105,7 +105,8 @@ ___
 	- Kafka
 	- RabbitMQ
 	- Знаком с Hadoop, MapReduce, YARN и принципами их работы
-	- Знаком со Spark, Cassandra, Apache Flink
+	- Знаком со Spark, Apache Flink, ceph и прочими
+	- Знаком с clickhouse, Cassandra и прочими
 	- Знаком с Approximate алгоритмами для больших данных
 	- Design patterns (Singleton, Factory, Observer и тд)
 	- Понимание принципов хорошего написания кода - SOLID, KISS, DRY, YAGNI, RUG, SINE
