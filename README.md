@@ -95,6 +95,7 @@ ___
 	- Git
 	- WebSocket
 	- SQL
+	- Neo4j (graph db)
 	- NoSQL
 	- PostgreSQL 
 	- Prometheus + Grafana
