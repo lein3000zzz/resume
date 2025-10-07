@@ -108,6 +108,7 @@ ___
 	- Знаком со Spark, Apache Flink, ceph и прочими
 	- Знаком с clickhouse, Cassandra и прочими
 	- Знаком с Approximate алгоритмами для больших данных
+	- Знаком с векторными БД
 	- Design patterns (Singleton, Factory, Observer и тд)
 	- Понимание принципов хорошего написания кода - SOLID, KISS, DRY, YAGNI, RUG, SINE
 	- Алгоритмы
