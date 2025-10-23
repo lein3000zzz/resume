@@ -121,10 +121,10 @@ ___
 	- Самостоятельность
 - Проекты:
 	- LimitFinderBot (Go + deno) - nda
+  	- [project-arachne](https://github.com/lein3000zzz/project-arachne) (Golang)
 	- [asperitas redditclone backend](https://github.com/lein3000zzz/asperitas-redditclone-backend-golang) (Golang)
 	- [HOA complaints service](https://github.com/lein3000zzz/HOA_complaints_service) (Golang + Gin)
 	- [3DViewer](https://github.com/lein3000zzz/3DViewer) (Java)
-	- [LimitFinder android app](https://github.com/lein3000zzz/FinderGemDealsDenoAndroidApp) (Kotlin)
 - Обо мне:
 	- Go-разработчик с опытом разработки на javascript. Имею опыт разработки как монолитных, так и микросервисных приложений с использованием как традиционных, так и реактивных подходов. Стремлюсь разрабатывать максимально эффективные и оптимизированные решения, соответствующие требованиям пользователей и бизнеса. Ценю полноту информации и веду огромное количество заметок. Верю в теорию второго мозга. <br>
 	  Гибок, обучаем; убежден, что инструменты в руках программиста - мощное средство для достижения целей. С интересом и увлечением применяю современные подходы в работе, активно слежу за актуальным в мире технологий и изучаю их. <br>
