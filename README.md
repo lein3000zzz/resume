@@ -98,7 +98,7 @@ ___
 	- Neo4j (graph db)
 	- NoSQL
 	- PostgreSQL 
-	- Prometheus + Grafana
+	- Prometheus / VictoriaMetrics, Grafana, vmalert, AlertManager...
 	- HashiCorp Vault, Consul
 	- ООП, функциональное программирование
 	- Понимание основ сетей
