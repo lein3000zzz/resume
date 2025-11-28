@@ -72,18 +72,18 @@ ___
 	- Английский - C1 - Продвинутый
 - Hard skills:
 	- Языки:
-		- Основные:
+		- Основа:
 			- Golang (включая Gin, Echo и прочие)
-		- Имел опыт:
+		- Уверенно владею:
+			- javascript / typescript (преимущественно deno / node)
+			- SQL
+    		- Aggregation pipeline (MongoDB)
 			- Java / Kotlin
- 			- javascript / typescript (преимущественно deno / node)
 			- python
 		- Владею:
-    		- SQL
-    		- Aggregation pipeline (MongoDB)
       		- Cypher (neo4j) 
 			- HTML
-			- CSS
+			- CSS (базовый)
 			- Lua
 	- REST API
 	- gRPC 
