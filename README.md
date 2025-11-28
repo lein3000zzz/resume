@@ -73,17 +73,18 @@ ___
 - Hard skills:
 	- Языки:
 		- Основные:
-			- Golang (включая Gin, Echo)
+			- Golang (включая Gin, Echo и прочие)
 		- Имел опыт:
 			- Java / Kotlin
+ 			- javascript / typescript (преимущественно deno / node)
 			- python
-			- javascript / typescript
 		- Владею:
+    		- SQL
+    		- Aggregation pipeline (MongoDB)
+      		- Cypher (neo4j) 
 			- HTML
 			- CSS
-			- SQL
 			- Lua
-			- AutoHotKey
 	- REST API
 	- gRPC 
 	- Redis
@@ -95,12 +96,13 @@ ___
 	- Docker
 	- CI/CD
 	- Git
-	- WebSocket
+	- WebSocket + WebTransport
 	- SQL
 	- Neo4j (graph db)
 	- NoSQL
 	- PostgreSQL 
-	- Prometheus / VictoriaMetrics, Grafana, vmalert, AlertManager...
+	- Prometheus / VictoriaMetrics, Grafana, vmalert, AlertManager и подобные
+ 	- Jaeger (little experience)
 	- HashiCorp Vault, Consul
 	- ООП, функциональное программирование
 	- Понимание основ сетей
@@ -122,12 +124,12 @@ ___
 	- Риск-менеджмент
 	- Самостоятельность
 - Проекты:
-	- LimitFinderBot (Go + deno) - nda
+	- LimitFinderBot - [LimitFinder-whitepaper](https://github.com/lein3000zzz/LimitFinder-whitepaper) (Golang + deno)
   	- [project-arachne](https://github.com/lein3000zzz/project-arachne) (Golang)
 	- [asperitas redditclone backend](https://github.com/lein3000zzz/asperitas-redditclone-backend-golang) (Golang)
 	- [HOA complaints service](https://github.com/lein3000zzz/HOA_complaints_service) (Golang + Gin)
 	- [3DViewer](https://github.com/lein3000zzz/3DViewer) (Java)
 - Обо мне:
-	- Go-разработчик с опытом разработки на javascript. Имею опыт разработки как монолитных, так и микросервисных приложений с использованием как традиционных, так и реактивных подходов. Стремлюсь разрабатывать максимально эффективные и оптимизированные решения, соответствующие требованиям пользователей и бизнеса. Ценю полноту информации и веду огромное количество заметок. Верю в теорию второго мозга. <br>
+	- Go-разработчик с опытом разработки на typescript. Имею опыт разработки как монолитных, так и микросервисных приложений с использованием как традиционных, так и реактивных подходов. Стремлюсь разрабатывать максимально эффективные и оптимизированные решения, соответствующие требованиям пользователей и бизнеса. Ценю полноту информации и веду огромное количество заметок. Верю в теорию второго мозга. <br>
 	  Гибок, обучаем; убежден, что инструменты в руках программиста - мощное средство для достижения целей. С интересом и увлечением применяю современные подходы в работе, активно слежу за актуальным в мире технологий и изучаю их. <br>
 	  Имею опыт выполнения задач в сжатые сроки. Больше всего ценю коммуникацию, всегда готов помогать в решении задач.
